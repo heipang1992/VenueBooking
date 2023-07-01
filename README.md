@@ -1,8 +1,8 @@
 # VenueBooking
-Using JSP / Servlets to dynamically generate HTML pages.
-Using JavaBean
-Using JDBC for database connection
-Apply MVC Model
+Using JSP / Servlets to dynamically generate HTML pages.<br/>
+Using JavaBean<br/>
+Using JDBC for database connection<br/>
+Apply MVC Model<br/>
 
 <img width="711" alt="event2" src="https://github.com/heipang1992/VenueBooking/assets/127038426/6b07eb31-520f-4a74-bf96-4b14de89aa89">
 
